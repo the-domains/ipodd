@@ -1,7 +1,7 @@
 name: ipodd
 favicon: null
-layout_spectrum: 0.8963159895502031
-typography_spectrum: 0.14493069099262357
+layout_spectrum: 0.76917
+typography_spectrum: 0.66581
 title: 'BiModal IT '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5188649673946202
+  brandStrength: 0.25
   lightness: 0.16669232351705432
-  saturation: 0.016443110071122646
+  saturation: 0.125
   rhythmicContrast: 0.3397764714900404
 purpose: []
